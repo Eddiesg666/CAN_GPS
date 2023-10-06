@@ -3,7 +3,7 @@
 The NGSIM project was a seminal traffic data collection experiment conducted at several locations. Read about the project at: https://datahub.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/#trajectory-data.
 The US-101 trajectory data is a dataset collected on the US 101 freeway in California. It is available at the following link: https://data.transportation.gov/api/views/8ect-6jqj/files/bf7ca201-c7b3-4dc0-8f77-578f7794fcee?download=true&filename=US-101-LosAngeles-CA.zip The download includes multiple datasets.
 
-There are several important fields:  
+There are several important fields:    
 • **Vehicle_ID:** Vehicle identification number (ascending by time of entry into section). Global_Time: contains the time of the trajectory as a UNIX timestamp. For example, the first timestamp is 1118847869000, which converts to Wed Jun 15 2005 15:04:29 GMT+0000.  
 
 • **Local_X:** Lateral (X) coordinate of the front center of the vehicle in feet with respect to the left-most edge of the section in the direction of travel.  
